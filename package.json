@@ -1,0 +1,34 @@
+{
+  "name": "itrash",
+  "version": "1.0.0",
+  "description": "Interactively selects files to delete from current folder in the cli",
+  "bin": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruyadorno/itrash.git"
+  },
+  "keywords": [
+    "ipt",
+    "ipipeto",
+    "cli",
+    "interactive",
+    "trash",
+    "inquirer",
+    "unix",
+    "terminal",
+    "workflow"
+  ],
+  "author": {
+    "name": "Ruy Adorno",
+    "url": "ruyadorno.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruyadorno/itrash/issues"
+  },
+  "homepage": "https://github.com/ruyadorno/itrash#readme",
+  "dependencies": {
+    "ipt": "^2.0.0",
+    "trash-cli": "^1.4.0"
+  }
+}
