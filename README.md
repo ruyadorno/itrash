@@ -41,7 +41,7 @@ If you're already an **ipt** user that has it globally installed, you can get th
 - [ipt](https://www.npmjs.com/package/ipt) globally installed
 
 ```sh
-alias irm="ls | ipt -m -M 'Select items to delete:' | xargs trash"
+alias itrash="ls | ipt -m -M 'Select items to delete:' | xargs trash"
 ```
 
 ## License
